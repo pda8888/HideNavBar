@@ -1,5 +1,7 @@
-		----- Fullscreen/Immersive Gestures ------
+		----- 全屏/沉浸 手势 ------
 
 		Choose your gestures mode
-
+		
 		Vol+ = Fullscreen, Vol- = Immersive
+请选择您的手势模式
+音量+ = 全屏, Vol- = 沉浸
